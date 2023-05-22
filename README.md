@@ -1,6 +1,8 @@
 # toolbox
 "This is a completely handy, simple, and convenient tool for your use. It is in its initial stages and is expected to improve over time. I ask for your help in enhancing this tool. It is currently useful for those who need a hash generator, port scanner, or want to gather information about their target domain. Additionally, we plan to add many more features to it."
 
+<img src="Screenshot.png">
+
 ## Features
 
 - Port Scan: It can scan open and closed ports on a specific IP address.
